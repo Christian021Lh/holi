@@ -7,10 +7,11 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/noetipo/DAD-2025-2.git # ruta del repositorio git
+          uri: https://github.com/Christian021Lh/holi.git # ruta del repositorio git
           searchPaths: config-data
           default-label: circuitbreaker
   security:
     user:
       name: root
+
       password: 123456
